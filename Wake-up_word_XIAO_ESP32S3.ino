@@ -39,7 +39,7 @@
  */
 
  /* Includes ---------------------------------------------------------------- */
-#include <Small_Scene_inferencing.h>
+#include <Wake_up_word_XIAO_ESP32S3_inferencing.h>
 #include <ESP_I2S.h>
 I2SClass I2S;
 
